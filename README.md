@@ -23,7 +23,7 @@ Want to go on your next trip but can’t decide on the right car?
 - 🔥 Firebase
 
 ## 📸 Screenshots  
-> Take a quick look of Aroggo:  
+> Take a quick look of Jatri:  
 
 ![Screenshot Placeholder](https://i.ibb.co.com/BVGy43Cd/jatri.png)  
 ![Screenshot Placeholder](https://i.ibb.co.com/xqbb6NKh/jatri1.png)  
